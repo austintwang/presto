@@ -37,5 +37,4 @@ Suggests:
     SummarizedExperiment,
     broom,
     BiocStyle
-NeedsCompilation: yes
 VignetteBuilder: knitr
